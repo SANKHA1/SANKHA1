@@ -56,16 +56,16 @@
     <div id="main" style="width: 100%; height: 100%;"></div>
   </div>
   <div class="stats-container">
-    <a href="https://github.com/BidishaDas">
+    <a href="https://github.com/SANKHA1">
       <img src="https://github-readme-stats.vercel.app/api?username=BidishaDas&show_icons=true&count_private=true&theme=dracula" />
     </a>
   </div>
   <script>
-   const chartDom = document.getElementById('main');
+const chartDom = document.getElementById('main');
 const myChart = echarts.init(chartDom);
 const option = {
   title: {
-    text: 'Bidisha Das\' Most Used Languages',
+    text: 'SANKHA1\' Most Used Languages',
     left: 'center',
     top: 20,
     textStyle: {
