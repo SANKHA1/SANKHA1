@@ -11,10 +11,7 @@
 
 
 
-# Sankha's GitHub Stats
 
-
-## A Contributed to (last year): **[2]**
 
 <a href="https://github.com/SANKHA1">
   <img src="https://github-readme-stats.vercel.app/api?username=SANKHA1&show_icons=true&count_private=true" />
