@@ -8,9 +8,6 @@
 
 📫 Reach me out sankhasubhramukherjee@gmail.com
 
-<a href="https://github.com/SANKHA1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANKHA1&layout=compact&theme=dracula" />
-</a>
 
 
 
@@ -18,4 +15,9 @@
 <a href="https://github.com/SANKHA1">
    <img src="https://github-readme-stats.vercel.app/api?username=SANKHA1&show_icons=true&count_private=true&theme=dracula" />
 
+</a>
+
+
+<a href="https://github.com/SANKHA1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANKHA1&layout=compact&theme=dracula" />
 </a>
